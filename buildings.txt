@@ -1,0 +1,10 @@
+id,created_at,updated_at,type of building,name,postal_codes,region_code,region_id,latitude,longitude,population,full_name
+1,2022-01-01 10:00:00,2022-01-01 11:00:00,value2,Building C,12333,R1124,2,37.7749,-122.4194,1000,ABCD Building
+2,2022-01-02 10:00:00,2022-01-02 11:00:00,value1,Building A,34321,R436,3,40.7128,-74.006,2000,XYZ Building
+3, 2022-01-02 10:00:00, asdasdad,value3, Building A, 3423211, R4536, saddaad, 40.131312,-74.12344,4000,ACSZ Building
+2,2022-01-02 10:00:00,2022-01-02 11:00:00,value1,Building Q,34311,R431,4,41.7128,-73.006,5000,X34 Building
+2,2022-01-02 10:00:00,2022-01-02 11:00:00,value2,Building A,34321,R436,a,40.7138,-74.106,5000,1231esadad
+2,2022-01-02 10:00:00,2022-01-02 11:00:00,value3,Building A,34321,R436,5,40.7138,-74.016,2100,OOO Building
+2,fdsfsfsdf,2022-01-02 11:00:00,value1,Building A,34321,R436,2,40.7128,-74.006,2000,XYZ Building
+
+
